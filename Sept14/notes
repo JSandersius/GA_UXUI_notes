@@ -1,0 +1,49 @@
+PROTOTYPING --> sketchup and invision 
+
+Prototyping -- usability testing 
+
+Prototyping--> early model --> working model --> beta testing 
+
+goal is testing 
+
+faster, easier to do --> ma medium fidelity in prototyping 
+code can be statically ritten and not robust
+
+no data stored -->  
+
+testing needs high fidelity  model 
+
+_______
+_______
+MOBILE FIRST DEVELOPMENT 
+It is one of the best strategies to create either a 
+responsive or adaptive design. The mobile-first 
+approach is a tenet of progressive enhancement. 
+It is the ideology that mobile design, as the hardest, 
+should be done first. Once the mobile design questions 
+are answered, designing for other devices will be easier.
+
+this is a great time to A/B test--> 
+
+edgecase --> flows for majority , but sometimes you  need to account for a small minority. 
+need to research the smallest of details to make sure they account for people with other needs 
+identify edgecased early on 
+
+test prototype --> 
+
+lofi<------------>hifi 
+concept             interactions 
+assumptions         animations 
+user flows          nomenclature 
+what it is          how it works
+what it does        how it feels
+where it goes       how it looks 
+
+
+____________
+Four points to test against
+-utility
+-usability 
+-desirability           _______low fidelity may lack in these two 
+-emotional connection  
+
